@@ -4,6 +4,7 @@ fragment User on users {
   email
   image
   emailVerified
+  status
 }
 
 fragment Session on sessions {
